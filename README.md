@@ -31,7 +31,7 @@ The data is taken from [![Static Badge](https://img.shields.io/badge/Twitter_Air
 | Balanced | Albert-base-v2 (fine-tuned) | 0.83 | 0.77 | 0.79 |
 | Imbalanced | DistillBERT | 0.41 | 0.64 | 0.50 |
 | Imbalanced | DistillBERT (fine-tuned) | 0.82 | 0.83 | 0.82 |
-| Imbalanced |  Albert-base-v2 | 0.42 | 0.64 | 0.50 |
+| Imbalanced |  Albert-base-v2 | 0.42 | 0.64 | 0.50 |kpo
 | <b style="color:green">Imbalanced</b> | <b style="color:green">Albert-base-v2 (fine-tuned)</b> | <b style="color:green">0.84</b> | <b style="color:green">0.84</b> | <b style="color:green">0.84</b> |
 
 **Result Analysis**:
